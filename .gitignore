@@ -1,6 +1,7 @@
 /target
 Cargo.lock
 .DS_Store
-.env
 **/*.rs.bk
 ui/node_modules/
+config.bat
+node_modules
